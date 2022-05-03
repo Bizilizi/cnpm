@@ -1,0 +1,17 @@
+torch==1.10.0
+pytorch-lightning==1.5.10
+torchvision==0.11.1
+numpy
+trimesh
+configparser
+matplotlib
+scikit-image>=0.18.3
+tqdm
+scipy
+pydantic
+plotly
+wandb
+pandas
+moviepy
+scikit-learn
+pyrender
